@@ -1,24 +1,5 @@
-#### Questions:
 
-  - ****2 composition book***
-    - ela:  *2 composition book
-    - ela:   1 Filler paper
-
-
-  - **reinforcements**
-    - ela:    1 reinforcements
-    - ss:     1 PKG. OF REINFORCEMENTS
-
-  - **POLY**
-    - ss:   1 POLY(plastic coated) - LABELED LABELED PROJECTS
-
-  - **Paper**. 
-    - ela.:   1 Filler paper
-    - ela:    1 ream of copy paper (homeroom class only)
-    - ss:     1 PACK OF LOOSE LEAF PAPER  
-    - ss:     1 REAM OF PAPER
-
-----
+### Supplies
 
 ##### Pens/Pencils:
   - **#2 Penciils**
@@ -79,6 +60,27 @@
     - ela.txt:1 hole puncher (Preferably 3 hole punch style made to be kept in binder)
   - **Stapler**
     - ela:  1 stapler (to be kept at home)
+
+
+----
+
+### Questions:
+
+  - ****2 composition book***
+    - ela:  *2 composition book
+
+  - **reinforcements**
+    - ela:    1 reinforcements
+    - ss:     1 PKG. OF REINFORCEMENTS
+
+  - **POLY**
+    - ss:   1 POLY(plastic coated) - LABELED LABELED PROJECTS
+
+  - **Paper**. 
+    - ela.:   1 Filler paper
+    - ela:    1 ream of copy paper (homeroom class only)
+    - ss:     1 PACK OF LOOSE LEAF PAPER  
+    - ss:     1 REAM OF PAPER
 
 
 ----
